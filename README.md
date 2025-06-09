@@ -1,9 +1,8 @@
 # DS_Syndrome_Risk_Prediction
 This study seeks to design a hybrid artificial intelligence (AI) framework that enhances the precision, performance, and dependability of Down Syndrome (DS) risk assessment in first trimester prenatal screening.
 # Code Availability
-The source code related to this study is currently under publication review. Upon acceptance of the associated manuscript, all relevant code and documentation will be made publicly available in this repository.
-Please stay tuned. The link to the published article will also be provided here once available.
+Source codes will be shared upon request. Please contact us at mtogacar@firat.edu.tr. Please cite the article by reviewing the bibliographic information below.
 
 
-# Article Title:"..."
-# Article DOI:"..."
+# Article Title:"A Hybrid Artificial Intelligence Approach for Down Syndrome Risk Prediction in First Trimester Screening"
+# Article DOI:"https://doi.org/10.3390/diagnostics15121444"
